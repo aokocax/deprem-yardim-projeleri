@@ -11,7 +11,8 @@ Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanlar�
    Harita üzerinden enkazları gösteren servis.
   <li><a href="https://github.com/acikkaynak/deprem-yardim-frontend">Discord İletişim Kanalı</a> </li>
    Deprem ile ilgili teknik projelerin konuşulduğu discord kanalı
-   <li><a href="https://beniyiyim.com" target="_blank">Deprem bolgesindeki insanlarin durumlarini diger insanlara bildirmelerini sağlar</a> <strong>beniyiyim.com</strong></li>
+   <li><a href="https://beniyiyim.com" target="_blank">Durum bilginizi paylaşın</a> <strong>beniyiyim.com</strong></li>
+  Deprem bolgesindeki insanlarin durumlarini diger insanlara bildirmelerini sağlar
    <li><a href=https://afetbilgi.com" target="_blank">Çeşitli önemli kaynaklara ulaşım firhisti</a> <strong>afetbilgi.com</strong>
 <ol>
 
