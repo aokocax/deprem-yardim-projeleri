@@ -22,6 +22,13 @@ Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanlar�
   Twitter'da gönderilen "Yardım Edin" içerikli tweetler.
      <li><a href="https://www.depremyardim.org/" target="_blank">Deprem Yardım Talepleri</a> <strong>depremyardim.org</strong></li>
      Deprem ile ilgili yardım taleplerinin listelendiği bir site. <a href="https://github.com/cihatislamdede/deprem-yardim">Github</a>
+     <li><a href="https://stream.epctex.com/" target="_blank"> Deprem Adres Bilgisi Tweetleri</a> <strong>stream.epctex.com</strong></li>
+  Twitter'da gönderilen adres bilgisi içeren twitleri listeleyen web sitesi.
+   <li><a href="https://kanver.org/KanHizmetleri/KanBagisiNoktalari" target="_blank"> Kan Bağışı Yapabilecek Yerler</a> <strong>kanver.org</strong></li>
+Kan bağışı yapabilecek yerleri sorgulanabilen web sitesi.
+   <li><a href="https://www.hepsiemlak.com/emlak-yasam/genel/dostluk-catisi" target="_blank"> Müsait Evi Olanlarla Depremzedeleri Buluşturan Platform</a> <strong>hepsiemlak.com</strong></li>
+Müsait evi olanlarla depremzedeleri buluşturan web sitesi.
+   
 <ol>
 
 
