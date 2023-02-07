@@ -14,7 +14,7 @@ Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanlar�
    Deprem ile ilgili teknik projelerin konuşulduğu discord kanalı
    <li><a href="https://beniyiyim.com" target="_blank">Durum bilginizi paylaşın</a> <strong>beniyiyim.com</strong></li>
   Deprem bolgesindeki insanlarin durumlarini diger insanlara bildirmelerini sağlar <a href="https://trello.com/b/nSajc3v7/ben-i%CC%87yiyim-app">Trello</a>
-   <li><a href=https://afetbilgi.com" target="_blank">Çeşitli önemli kaynaklara ulaşım firhisti</a> <strong>afetbilgi.com</strong></li>
+   <li><a href="https://afetbilgi.com" target="_blank">Çeşitli önemli kaynaklara ulaşım firhisti</a> <strong>afetbilgi.com</strong></li>
    Geçici barınma aranları, güvenli toplanma alanları, eşya bağış imkanları, kan bağış noktaları, önemli erişim numaraları.
    <li><a href="https://kalacakyer.org/" target="_blank" >Depremzedeler için ücretsiz kalacak yerler </a> <strong>kalacakyer.org</strong></li>
    Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması
