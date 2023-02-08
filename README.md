@@ -33,10 +33,9 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
     Özel bir şirket barınma ihtiyacı olan ve müsait evi olanları bir araya getirmek için kendi sitesi alında bir uygulama başlatmış. 
      <li><a href="https://www.jotform.com/tr/kalbimiz-turkiyeyle/" target="_blank">Ücretsiz Otel ve Konaklama Tesisleri</a> <strong>otelz.com</strong></li>
      Otelz.com yaşanan deprem felaketi sebebi ile depremzedelere ücretsiz konaklama desteği sağlayan otel ve konaklama tesislerini listelemiş.
-    <li><a href="https://www.trendyol.com/sr?cid=619322&pi=3" target="_blank">Trendyol Deprem Yardım Alışverişi</a> <strong>trendyol.com</strong></li>
-    Trendyol, depremzedelere ulaştırılmak üzere açtığı özel bölüm üzerinden satın alınanları AFAD'a ücretsiz ulaştırıyor.
-    <li><a href="https://www.hepsiburada.com/deprem-seferberligi" target="_blank">Hepsiburada Deprem Yardım Alışverişi</a> <strong>hepsiburada.com</strong></li>
-    Hepsiburada, depremzedelere ulaştırılmak üzere açtığı özel bölüm üzerinden satın alınanları AFAD'a ücretsiz ulaştırıyor.
+    <li>Deprem alış verişi <strong>trendyol.com</strong></li>
+   <a href="https://www.trendyol.com/sr?cid=619322&pi=3" target="_blank">Trendyol</a>, <a href="https://www.hepsiburada.com/deprem-seferberligi" target="_blank">Hepsiburada</a>, <a href="https://www.amazon.com.tr/hz/wishlist/ls/1EBJ7MY9SZPZ4/" target="_blank">Amazon</a>, <a href="https://www.n11.com/promosyon/deprem-yardimlasma-seferberligi-1600359">N11</a>, <a href="https://www.pttavm.com/arama/yardim" target="_blank">PTTAvm</a> depremzedelere ulaştırılmak üzere açtıkları özel bölümler üzerinden satın alınanları AFAD'a ücretsiz ulaştırıyor.
+ 
 </ol>
 <h2>Hazırlık aşamasında olan projeler</h3>
 <ol>
