@@ -11,7 +11,7 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Harita üzerinden enkazları gösteren servis.
     <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
   Enkaz altında olan kişilerin listelendiği web sitesi. <a href="https://github.com/acikkaynak/deprem-yardim-frontend">Github</a>
-  <li><a href="https://github.com/acikkaynak/deprem-yardim-frontend">Discord İletişim Kanalı</a> </li>
+  <li><a href="https://discord.gg/itdepremyardim">Discord İletişim Kanalı</a> </li>
    Deprem ile ilgili teknik projelerin konuşulduğu discord kanalı
    <li><a href="https://beniyiyim.com" target="_blank">Durum bilginizi paylaşın</a> <strong>beniyiyim.com</strong></li>
   Deprem bolgesindeki insanlarin durumlarini diger insanlara bildirmelerini sağlar <a href="https://trello.com/b/nSajc3v7/ben-i%CC%87yiyim-app">Trello</a>
