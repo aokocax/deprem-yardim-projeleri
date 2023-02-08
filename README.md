@@ -2,7 +2,7 @@
 <h2>Deprem ihtiyaçları için yapılan dijital projelerin bir listesi.</h2>
 Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanları görüp kendi projelerinizi yapabilirsiniz.<br/>
 Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebilirsiniz.
-<br/><br/>
+<h2>Topluluk / Kişisel Projeler</h2>
 <ol>
 
    <li><a href="https://deprem.io/" target="_blank">deprem.io</a> </li>
@@ -23,13 +23,16 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
   Twitter'da gönderilen "Yardım Edin" içerikli tweetler.
      <li><a href="https://www.depremyardim.org/" target="_blank">Deprem Yardım Talepleri</a> <strong>depremyardim.org</strong></li>
      Deprem ile ilgili yardım taleplerinin listelendiği bir site. <a href="https://github.com/cihatislamdede/deprem-yardim">Github</a>
-    <li><a href="https://www.hepsiemlak.com/emlak-yasam/genel/dostluk-catisi" target="_blank">Dostluk Çatısı</a> <strong>hepsiemlak.com</strong></li>
-    Özel bir şirket barınma ihtiyacı olan ve müsait evi olanları bir araya getirmek için kendi sitesi alında bir uygulama başlatmış. 
-     <li><a href="https://www.jotform.com/tr/kalbimiz-turkiyeyle/" target="_blank">Ücretsiz Otel ve Konaklama Tesisleri</a><strong>otelz.com</strong></li>
-     Otelz.com yaşanan deprem felaketi sebebi ile depremzedelere ücretsiz konaklama desteği sağlayan otel ve konaklama tesislerini listelemiş.
     <li><a href="https://eyupyusuf.notion.site/eyupyusuf/Deprem-Bilgi-ve-Yard-m-Veritaban-1a1cfa2afb0e43d9a6e955e32cfd779f" target="_blank">Deprem Yardım Veritabanı</a> <strong>eyupyusuf.notion.site</strong></li>
    Bağış ve yardımlar için çeşitli bağlantı ve bilgilere ulaşabileceğiniz bir çalışma.
 
+</ol>
+<h2>Özel Şirket Projeleri</h2>
+<ol>
+       <li><a href="https://www.hepsiemlak.com/emlak-yasam/genel/dostluk-catisi" target="_blank">Dostluk Çatısı</a> <strong>hepsiemlak.com</strong></li>
+    Özel bir şirket barınma ihtiyacı olan ve müsait evi olanları bir araya getirmek için kendi sitesi alında bir uygulama başlatmış. 
+     <li><a href="https://www.jotform.com/tr/kalbimiz-turkiyeyle/" target="_blank">Ücretsiz Otel ve Konaklama Tesisleri</a> <strong>otelz.com</strong></li>
+     Otelz.com yaşanan deprem felaketi sebebi ile depremzedelere ücretsiz konaklama desteği sağlayan otel ve konaklama tesislerini listelemiş.
 </ol>
 <h2>Hazırlık aşamasında olan projeler</h3>
 <ol>
