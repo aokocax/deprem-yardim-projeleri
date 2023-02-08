@@ -29,6 +29,8 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
 </ol>
 <h2>Özel Şirket Projeleri</h2>
 <ol>
+      <li><a href="http://deprem.basarsoft.com.tr">Göçük Yardım Talebi Haritalandırması<a> <strong>Başarsoft</strong></li>
+      Coğrafi Bilgi Sistemleri şirketi Başarsoft, göçük altındakilerle ilgili yardım taleplerini haritalandırmış.
        <li><a href="https://www.hepsiemlak.com/emlak-yasam/genel/dostluk-catisi" target="_blank">Dostluk Çatısı</a> <strong>hepsiemlak.com</strong></li>
     Özel bir şirket barınma ihtiyacı olan ve müsait evi olanları bir araya getirmek için kendi sitesi alında bir uygulama başlatmış. 
      <li><a href="https://www.jotform.com/tr/kalbimiz-turkiyeyle/" target="_blank">Ücretsiz Otel ve Konaklama Tesisleri</a> <strong>otelz.com</strong></li>
