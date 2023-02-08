@@ -5,18 +5,7 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
 <h2>Topluluk / Kişisel Projeler</h2>
 <ol>
 
-   <li><a href="https://deprem.io/" target="_blank">deprem.io</a> </li>
-  Enkaz altında olanlar, gıda ve ısınma ihtiyaçlarının listelendiği bir site.
-   <li><a href="https://afetharita.com/" target="_blank">Afet Haritası </a> <strong>afetharita.com</strong></li>
-   Harita üzerinden enkazları gösteren servis. <a href="https://github.com/acikkaynak/deprem-yardim-frontend">Github</a>
-    <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
-  Enkaz altında olan kişilerin listelendiği web sitesi. 
-  <li><a href="https://discord.gg/itdepremyardim">Discord İletişim Kanalı</a> </li>
-   Deprem ile ilgili teknik projelerin konuşulduğu discord kanalı
-   <li><a href="https://beniyiyim.com" target="_blank">Durum bilginizi paylaşın</a> <strong>beniyiyim.com</strong></li>
-  Deprem bolgesindeki insanlarin durumlarini diger insanlara bildirmelerini sağlar <a href="https://trello.com/b/nSajc3v7/ben-i%CC%87yiyim-app">Trello</a>
-   <li><a href="https://afetbilgi.com" target="_blank">Çeşitli önemli kaynaklara ulaşım firhisti</a> <strong>afetbilgi.com</strong></li>
-   Geçici barınma aranları, güvenli toplanma alanları, eşya bağış imkanları, kan bağış noktaları, önemli erişim numaraları.
+
    <li><a href="https://kalacakyer.org/" target="_blank" >Depremzedeler için ücretsiz kalacak yerler </a> <strong>kalacakyer.org</strong></li>
    Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması
      <li><a href="https://adresdeprem.com/" target="_blank"> Deprem Yardım Tweetleri</a> <strong>adresdeprem.com</strong></li>
@@ -27,6 +16,19 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Bağış ve yardımlar için çeşitli bağlantı ve bilgilere ulaşabileceğiniz bir çalışma.
    <li><a href="https://stream.epctex.com/" target="_blank">Deprem Çağrı Stream'ı</a> <strong>stream.epctex.com</strong> </li>
    Enkaz altındaki insanlar için açılmış bir Twitter stream uygulaması.
+   <li><a href="https://misafirimol.trair.com.tr/">Misafirim Ol</a> <strong>misafirimol.trair.com.tr</strong></li>
+   Depremzedelere evlerinde geçici konaklama imkanı sağlayanları sunan bir servis.
+   <li><a href="https://deprem.io/" target="_blank">deprem.io</a> </li>
+  Enkaz altında olanlar, gıda ve ısınma ihtiyaçlarının listelendiği bir site.
+   <li><a href="https://afetharita.com/" target="_blank">Afet Haritası </a> <strong>afetharita.com</strong></li>
+   Harita üzerinden enkazları gösteren servis. <a href="https://github.com/acikkaynak/deprem-yardim-frontend">Github</a>
+    <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
+  Enkaz altında olan kişilerin listelendiği web sitesi. 
+
+   <li><a href="https://beniyiyim.com" target="_blank">Durum bilginizi paylaşın</a> <strong>beniyiyim.com</strong></li>
+  Deprem bolgesindeki insanlarin durumlarini diger insanlara bildirmelerini sağlar <a href="https://trello.com/b/nSajc3v7/ben-i%CC%87yiyim-app">Trello</a>
+   <li><a href="https://afetbilgi.com" target="_blank">Çeşitli önemli kaynaklara ulaşım firhisti</a> <strong>afetbilgi.com</strong></li>
+   Geçici barınma aranları, güvenli toplanma alanları, eşya bağış imkanları, kan bağış noktaları, önemli erişim numaraları.
 
 </ol>
 <h2>Özel Şirket Projeleri</h2>
