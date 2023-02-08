@@ -34,4 +34,10 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
 <li>Acil Lokasyon</li>
 Google Map üzerinden işaretleme yaparak farklı konularda anında uygulama açabileceğiniz bir uygulama. <a href="https://github.com/aokocax">İletişim</a>
 </ol>
+<h2>Ücretsiz Kaynak ve Servis Sağlayanlar</h3>
+<ol>
+   <li><a href="https://www.jotform.com/tr/kalbimiz-turkiyeyle/">Jotform</a> </li>
+Jotform, depremden etkilenen bölgelerde faaliyet gösteren arama kurtarma, sağlık ve yardım kuruluşlarına destek olmak adına tüm hizmetlerini ücretsiz olarak sunuyor.
+  
+</ol>
 
