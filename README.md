@@ -10,8 +10,14 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması
      <li><a href="https://adresdeprem.com/" target="_blank"> Deprem Yardım Tweetleri</a> <strong>adresdeprem.com</strong></li>
   Twitter'da gönderilen "Yardım Edin" içerikli tweetler.
+     <li><a href="https://afetharita.com/" target="_blank">Afet Haritası </a> <strong>afetharita.com</strong></li>
+   Harita üzerinden enkazları gösteren servis. <a href="https://github.com/acikkaynak/deprem-yardim-frontend">Github</a>
+    <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
+  Enkaz altında olan kişilerin listelendiği web sitesi. 
      <li><a href="https://www.depremyardim.org/" target="_blank">Deprem Yardım Talepleri</a> <strong>depremyardim.org</strong></li>
      Deprem ile ilgili yardım taleplerinin listelendiği bir site. <a href="https://github.com/cihatislamdede/deprem-yardim">Github</a>
+     <li><a href="https://www.magdur.com/">Yardım Dizini ve Twitter Stream'i</a> <strong>magdur.com</strong></li>
+    Yardım kanallarına ulaşım adresleri ve yardım hesaplarının Tweetlerini servis olarak sunuluyor.
     <li><a href="https://eyupyusuf.notion.site/eyupyusuf/Deprem-Bilgi-ve-Yard-m-Veritaban-1a1cfa2afb0e43d9a6e955e32cfd779f" target="_blank">Deprem Yardım Veritabanı</a> <strong>eyupyusuf.notion.site</strong></li>
    Bağış ve yardımlar için çeşitli bağlantı ve bilgilere ulaşabileceğiniz bir çalışma.
    <li><a href="https://stream.epctex.com/" target="_blank">Deprem Çağrı Stream'ı</a> <strong>stream.epctex.com</strong> </li>
@@ -20,11 +26,6 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Depremzedelere evlerinde geçici konaklama imkanı sağlayanları sunan bir servis.
    <li><a href="https://deprem.io/" target="_blank">deprem.io</a> </li>
   Enkaz altında olanlar, gıda ve ısınma ihtiyaçlarının listelendiği bir site.
-   <li><a href="https://afetharita.com/" target="_blank">Afet Haritası </a> <strong>afetharita.com</strong></li>
-   Harita üzerinden enkazları gösteren servis. <a href="https://github.com/acikkaynak/deprem-yardim-frontend">Github</a>
-    <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
-  Enkaz altında olan kişilerin listelendiği web sitesi. 
-
    <li><a href="https://beniyiyim.com" target="_blank">Durum bilginizi paylaşın</a> <strong>beniyiyim.com</strong></li>
   Deprem bolgesindeki insanlarin durumlarini diger insanlara bildirmelerini sağlar <a href="https://trello.com/b/nSajc3v7/ben-i%CC%87yiyim-app">Trello</a>
    <li><a href="https://afetbilgi.com" target="_blank">Çeşitli önemli kaynaklara ulaşım firhisti</a> <strong>afetbilgi.com</strong></li>
