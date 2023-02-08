@@ -5,7 +5,8 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
 <h2>Topluluk / Kişisel Projeler</h2>
 <ol>
 
-
+   <li><a href="https://web.itu.edu.tr/sariero/dinleme.html">Enkaz Dinleme Uygulaması</a> <strong>itu.edu.tr</strong></li>
+   Emkaz altındanki sesleri dinlemeye yarın İTÜ kaynaklı uygulama.
    <li><a href="https://kalacakyer.org/" target="_blank" >Depremzedeler için ücretsiz kalacak yerler </a> <strong>kalacakyer.org</strong></li>
    Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması
      <li><a href="https://adresdeprem.com/" target="_blank"> Deprem Yardım Tweetleri</a> <strong>adresdeprem.com</strong></li>
