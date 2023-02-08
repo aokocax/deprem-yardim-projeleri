@@ -1,6 +1,7 @@
 # Deprem Yardım Projeleri
 <h2>Deprem ihtiyaçları için yapılan dijital projelerin bir listesi.</h2>
-Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanları görüp kendi projelerinizi yapabilirsiniz.
+Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanları görüp kendi projelerinizi yapabilirsiniz.<br/>
+Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebilirsiniz.
 <br/><br/>
 <ol>
 
@@ -22,6 +23,12 @@ Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanlar�
   Twitter'da gönderilen "Yardım Edin" içerikli tweetler.
      <li><a href="https://www.depremyardim.org/" target="_blank">Deprem Yardım Talepleri</a> <strong>depremyardim.org</strong></li>
      Deprem ile ilgili yardım taleplerinin listelendiği bir site. <a href="https://github.com/cihatislamdede/deprem-yardim">Github</a>
+    <li><a href="https://www.hepsiemlak.com/emlak-yasam/genel/dostluk-catisi" target="_blank">Dostluk Çatısı</a> <strong>hepsiemlak.com</strong></li>
+    Özel bir şirket barınma ihtiyacı olan ve müsait evi olanları bir araya getirmek için kendi sitesi alında bir uygulama başlatmış. 
+</ol>
+<h2>Hazırlık aşamasında olan projeler</h3>
 <ol>
-
+<li>Acil Lokasyon</li>
+Google Map üzerinden işaretleme yaparak farklı konularda anında uygulama açabileceğiniz bir uygulama. <a href="https://github.com/aokocax">İletişim</a>
+</ol>
 
