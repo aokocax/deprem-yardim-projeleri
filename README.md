@@ -25,6 +25,9 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
      Deprem ile ilgili yardım taleplerinin listelendiği bir site. <a href="https://github.com/cihatislamdede/deprem-yardim">Github</a>
     <li><a href="https://www.hepsiemlak.com/emlak-yasam/genel/dostluk-catisi" target="_blank">Dostluk Çatısı</a> <strong>hepsiemlak.com</strong></li>
     Özel bir şirket barınma ihtiyacı olan ve müsait evi olanları bir araya getirmek için kendi sitesi alında bir uygulama başlatmış. 
+    <li><a href="https://eyupyusuf.notion.site/eyupyusuf/Deprem-Bilgi-ve-Yard-m-Veritaban-1a1cfa2afb0e43d9a6e955e32cfd779f" target="_blank">Deprem Yardım Veritabanı</a> <strong>eyupyusuf.notion.site</strong></li>
+   Bağış ve yardımlar için çeşitli bağlantı ve bilgilere ulaşabileceğiniz bir çalışma.
+    
 </ol>
 <h2>Hazırlık aşamasında olan projeler</h3>
 <ol>
