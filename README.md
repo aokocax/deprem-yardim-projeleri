@@ -22,7 +22,7 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Bağış ve yardımlar için çeşitli bağlantı ve bilgilere ulaşabileceğiniz bir çalışma.
    <li><a href="https://stream.epctex.com/" target="_blank">Deprem Çağrı Stream'ı</a> <strong>stream.epctex.com</strong> </li>
    Enkaz altındaki insanlar için açılmış bir Twitter stream uygulaması.
-   <li><a href="https://misafirimol.trair.com.tr/">Misafirim Ol</a> <strong>misafirimol.trair.com.tr</strong></li>
+   <li><a href="https://misafirol.org/">Misafirim Ol</a> <strong>misafirol.org</strong></li>
    Depremzedelere evlerinde geçici konaklama imkanı sağlayanları sunan bir servis.
    <li><a href="https://deprem.io/" target="_blank">deprem.io</a> </li>
   Enkaz altında olanlar, gıda ve ısınma ihtiyaçlarının listelendiği bir site.
