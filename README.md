@@ -32,6 +32,8 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Geçici barınma aranları, güvenli toplanma alanları, eşya bağış imkanları, kan bağış noktaları, önemli erişim numaraları.
  <li><a href="https://web.itu.edu.tr/sariero/dinleme.html">Enkaz Dinleme Uygulaması</a> <strong>itu.edu.tr</strong></li>
    Emkaz altındanki sesleri dinlemeye yarın İTÜ kaynaklı uygulama.
+    <li><a href="https://depremzedem.com">Nakıl Yapılan Hastalar</a> <strong>depremzedem.com</strong></li>
+   Açık verilerden yararlanarak, depremzedelerin nakil yapıldığı hastahaneleri listeleyen web uygulaması.
 </ol>
 <h2>Özel Şirket Projeleri</h2>
 <ol>
