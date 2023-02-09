@@ -13,7 +13,7 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
      <li><a href="https://afetharita.com/" target="_blank">Afet Haritası </a> <strong>afetharita.com</strong></li>
    Harita üzerinden enkazları gösteren servis. <a href="https://github.com/acikkaynak/deprem-yardim-frontend">Github</a>
     <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
-  Enkaz altında olan kişilerin listelendiği web sitesi. 
+  Enkaz altında olan kişilerin listelendiği web sitesi.<a href="https://github.com/acikkaynak/deprem-yardim-com">Github</a>
      <li><a href="https://www.depremyardim.org/" target="_blank">Deprem Yardım Talepleri</a> <strong>depremyardim.org</strong></li>
      Deprem ile ilgili yardım taleplerinin listelendiği bir site. <a href="https://github.com/cihatislamdede/deprem-yardim">Github</a>
      <li><a href="https://www.magdur.com/">Yardım Dizini ve Twitter Stream'i</a> <strong>magdur.com</strong></li>
