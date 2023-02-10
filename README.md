@@ -3,11 +3,11 @@
 Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanları görüp kendi projelerinizi yapabilirsiniz.<br/>
 Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebilirsiniz.
 <h2>Topluluk / Kişisel Projeler</h2>
-<ol>
-
-  
+<ol>  
+  <li><a href="https://aidturkey.org/" target="_blank">Aid Turkey</a> <strong>aidturkey.org</strong></li>
+  Yabancıların Türkiye'deki güvenilik kurumlara yardım yapabilmeleri için hazırlanmış İngilizce bir web sitesi.
    <li><a href="https://kalacakyer.org/" target="_blank" >Depremzedeler için ücretsiz kalacak yerler </a> <strong>kalacakyer.org</strong></li>
-   Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması
+   Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması.
      <li><a href="https://adresdeprem.com/" target="_blank"> Deprem Yardım Tweetleri</a> <strong>adresdeprem.com</strong></li>
   Twitter'da gönderilen "Yardım Edin" içerikli tweetler.
      <li><a href="https://afetharita.com/" target="_blank">Afet Haritası </a> <strong>afetharita.com</strong></li>
