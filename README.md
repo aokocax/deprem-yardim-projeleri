@@ -56,6 +56,7 @@ Google Map üzerinden işaretleme yaparak farklı konularda anında uygulama aç
 <ol>
    <li><a href="https://www.jotform.com/tr/kalbimiz-turkiyeyle/">Jotform</a> </li>
 Jotform, depremden etkilenen bölgelerde faaliyet gösteren arama kurtarma, sağlık ve yardım kuruluşlarına destek olmak adına tüm hizmetlerini ücretsiz olarak sunuyor.
-  
+  <li><a href="https://www.turkticaret.net/">Turk Ticaret</a> </li>
+  Deprem ile ilgili projelere 1 yıl boyunca ücretsiz domain ve hosting hizmeti sağlanıyor.
 </ol>
 
