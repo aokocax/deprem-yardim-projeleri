@@ -32,8 +32,11 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Geçici barınma aranları, güvenli toplanma alanları, eşya bağış imkanları, kan bağış noktaları, önemli erişim numaraları.
  <li><a href="https://web.itu.edu.tr/sariero/dinleme.html">Enkaz Dinleme Uygulaması</a> <strong>itu.edu.tr</strong></li>
    Emkaz altındanki sesleri dinlemeye yarın İTÜ kaynaklı uygulama.
-   <li><a href="https://yikilanbinalar.com.tr/">Yıkılan Binalar</a> <strong>yikilanbinalar.com.tr</strong></li>
+   <li><a href="https://yikilanbinalar.com.tr/" target="_blank">Yıkılan Binalar</a> <strong>yikilanbinalar.com.tr</strong></li>
    Yıkılan binaları gösteren bir web sitesi.
+    <li><a href="https://evimmusait.com/" target="_blank">Evim Müsait</a> <strong>evimmusait.com</strong></li>
+   Depremzedelerin ve yardımsever vatandaşların birbirleri ile kolay şekilde iletişim kurabilmelerini sağlamak amacıyla açılmış bir site.
+  
 </ol>
 <h2>Özel Şirket Projeleri</h2>
 <ol>
