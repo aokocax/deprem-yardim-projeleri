@@ -36,7 +36,7 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Yıkılan binaları gösteren bir web sitesi.
     <li><a href="https://evimmusait.com/" target="_blank">Evim Müsait</a> <strong>evimmusait.com</strong></li>
    Depremzedelerin ve yardımsever vatandaşların birbirleri ile kolay şekilde iletişim kurabilmelerini sağlamak amacıyla açılmış bir site.
-   <li><a href="https://yakinimibul.net" target="_blank">Yakınımı Bul</a>Depremden etkilenen insanların hangi hastanelere sevk edildiğinin listelendiği proje.</li>
+   <li><a href="https://yakinimibul.net" target="_blank">Yakınımı Bul </a>Depremden etkilenen insanların hangi hastanelere sevk edildiğinin listelendiği proje.</li>
   
 </ol>
 <h2>Özel Şirket Projeleri</h2>
