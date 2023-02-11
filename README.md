@@ -40,6 +40,8 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
 </ol>
 <h2>Özel Şirket Projeleri</h2>
 <ol>
+      <li><a href="https://sesver.in">SesVer.in<a> <strong> arvia.tech </strong></li>
+      Otomatik konum paylaşarak, yardım isteyenlerle yardım edebilecekleri sesli görüştüren web sitesi.
       <li><a href="http://deprem.basarsoft.com.tr">Göçük Yardım Talebi Haritalandırması<a> <strong>Başarsoft</strong></li>
       Coğrafi Bilgi Sistemleri şirketi Başarsoft, göçük altındakilerle ilgili yardım taleplerini haritalandırmış.
        <li><a href="https://www.hepsiemlak.com/emlak-yasam/genel/dostluk-catisi" target="_blank">Dostluk Çatısı</a> <strong>hepsiemlak.com</strong></li>
