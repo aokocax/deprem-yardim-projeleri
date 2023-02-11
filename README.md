@@ -3,9 +3,7 @@
 Projelere bakarak hali hazırdakilere dahil olabilir, düşünülmemiş olanları görüp kendi projelerinizi yapabilirsiniz.<br/>
 Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebilirsiniz.
 <h2>Topluluk / Kişisel Projeler</h2>
-<ol>  
-  <li><a href="https://aidturkey.org/" target="_blank">Aid Turkey</a> <strong>aidturkey.org</strong></li>
-  Yabancıların Türkiye'deki güvenilik kurumlara yardım yapabilmeleri için hazırlanmış İngilizce bir web sitesi.
+<ol>
    <li><a href="https://kalacakyer.org/" target="_blank" >Depremzedeler için ücretsiz kalacak yerler </a> <strong>kalacakyer.org</strong></li>
    Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması.
      <li><a href="https://adresdeprem.com/" target="_blank"> Deprem Yardım Tweetleri</a> <strong>adresdeprem.com</strong></li>
@@ -14,6 +12,8 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Harita üzerinden enkazları gösteren servis. <a href="https://github.com/acikkaynak/deprem-yardim-frontend">Github</a>
     <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
   Enkaz altında olan kişilerin listelendiği web sitesi. 
+  <li><a href="https://aidturkey.org/" target="_blank">Aid Turkey</a> <strong>aidturkey.org</strong></li>
+  Yabancıların Türkiye'deki güvenilik kurumlara yardım yapabilmeleri için hazırlanmış İngilizce bir web sitesi.
      <li><a href="https://www.depremyardim.org/" target="_blank">Deprem Yardım Talepleri</a> <strong>depremyardim.org</strong></li>
      Deprem ile ilgili yardım taleplerinin listelendiği bir site. <a href="https://github.com/cihatislamdede/deprem-yardim">Github</a>
      <li><a href="https://www.magdur.com/">Yardım Dizini ve Twitter Stream'i</a> <strong>magdur.com</strong></li>
