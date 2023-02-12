@@ -8,6 +8,8 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
    Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması.
      <li><a href="https://adresdeprem.com/" target="_blank"> Deprem Yardım Tweetleri</a> <strong>adresdeprem.com</strong></li>
   Twitter'da gönderilen "Yardım Edin" içerikli tweetler.
+   <li><a href="https://afet.in" target="_blank">Affetzedeler için iş bulma sitesi</a> <strong>afet.in</strong></li>
+   Afetten etkilenen kişilerin iş ve staj yeri bulmasına yardımcı olmak adına oluşturulmuştur. 
      <li><a href="https://afetharita.com/" target="_blank">Afet Haritası </a> <strong>afetharita.com</strong></li>
    Harita üzerinden enkazları gösteren servis. <a href="https://github.com/acikkaynak/deprem-yardim-frontend">Github</a>
     <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
