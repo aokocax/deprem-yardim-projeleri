@@ -15,7 +15,7 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
     <li><a href="https://depremyardim.com/" target="_blank">Deprem Adres Bildirim Sayfası</a> <strong>depremyardim.com</strong> </li>
   Enkaz altında olan kişilerin listelendiği web sitesi. 
   <li><a href="https://aidturkey.org/" target="_blank">Aid Turkey</a> <strong>aidturkey.org</strong></li>
-  Yabancıların Türkiye'deki güvenilik kurumlara yardım yapabilmeleri için hazırlanmış İngilizce bir web sitesi.
+  Yabancıların Türkiye'deki güvenilir kurumlara yardım yapabilmeleri için hazırlanmış İngilizce bir web sitesi.
      <li><a href="https://www.depremyardim.org/" target="_blank">Deprem Yardım Talepleri</a> <strong>depremyardim.org</strong></li>
      Deprem ile ilgili yardım taleplerinin listelendiği bir site. <a href="https://github.com/cihatislamdede/deprem-yardim">Github</a>
      <li><a href="https://www.magdur.com/">Yardım Dizini ve Twitter Stream'i</a> <strong>magdur.com</strong></li>
