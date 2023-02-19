@@ -5,7 +5,7 @@ Henüz hazırlık aşamasında olan projeleriniz varsa listenin altına ekleyebi
 <h2>Topluluk / Kişisel Projeler</h2>
 <ol>
    <li><a href="https://depremyardimlari.org/" target="_blank" >Şirketler tarafından yapılan deprem yardım beyanları. </a> <strong>depremyardimlari.org</strong></li>
-   Şubat 2023 tarihinde ülkemizde meydana gelen deprem felaketinin ardından 1.000.000 TL ve üzerinde yardım beyanında bulunan şirketleri kategorik olarak listelemek için açılmıştır. 
+   Şubat 2023 tarihinde ülkemizde meydana gelen deprem felaketinin ardından 1.000.000 TL ve üzerinde yardım beyanında bulunan şirketleri kategorik olarak listelemek için açılmıştır. <a href="https://github.com/aokocax/DepremYardimlari" target="_blank">Github</a>
    <li><a href="https://kalacakyer.org/" target="_blank" >Depremzedeler için ücretsiz kalacak yerler </a> <strong>kalacakyer.org</strong></li>
    Depremzedelerin ücretsiz olarak kalabilecekleri yerleri gösteren bir web uygulaması.
      <li><a href="https://adresdeprem.com/" target="_blank"> Deprem Yardım Tweetleri</a> <strong>adresdeprem.com</strong></li>
